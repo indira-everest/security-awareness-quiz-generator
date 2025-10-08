@@ -1,0 +1,32 @@
+# Sample Security Policy - Everest Engineering
+
+## Introduction
+This policy outlines mandatory and recommended practices for secure software development and overall cybersecurity awareness at Everest Engineering. All projects must follow these guidelines to minimize vulnerabilities and protect sensitive data.
+
+## Scope
+Applies to all internal and external projects where customers do not provide their own security policies. Team leads are responsible for policy implementation, while crew leads monitor compliance during project cycles.
+
+## General Security Topics
+- Phishing Awareness: Employees must be able to identify phishing emails and report suspicious messages.
+- Password Management: Use strong, unique passwords and enable multi-factor authentication.
+- Social Engineering: Staff must be aware of social engineering techniques and verify requests for sensitive information.
+- Data Protection: Confidential data must be stored securely and transmitted using encrypted channels.
+
+## Advanced Security Topics
+- OWASP Top 10: Apply secure coding practices to prevent injection, XSS, CSRF, and other vulnerabilities.
+- SANS Top 25: Address the most critical software errors identified by SANS.
+- Secure Coding Practices: Validate inputs, sanitize outputs, manage errors safely, and avoid insecure dependencies.
+- Incident Awareness: Understand recent security incidents and how similar attacks can be mitigated.
+- Threat Modeling: Perform security analysis of new features to anticipate potential attack vectors.
+
+## Company-Specific Policies
+- Credentials and API keys must never be hardcoded; use secure vaults.
+- Document all security decisions for auditability.
+- Configure compilers and tools to treat warnings as errors in unsafe languages.
+- Conduct regular code reviews and automated security scans.
+- Immediately report security incidents to the CSO and follow the incident response plan.
+
+## Reporting Events
+- Project Kick-Off: Security review of architecture and design.
+- Milestone Completion: Validate implementation against security requirements.
+- Project Closeout: Clean up access, hand over open risks, and ensure compliance is documented.

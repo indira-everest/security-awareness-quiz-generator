@@ -1,0 +1,1529 @@
+Here's a set of 100 engaging and interactive quiz questions based on the provided security policy for Everest Engineering. The questions are structured in Moodle-compatible GIFT format, covering a variety of topics and difficulty levels, as requested. 
+
+```plaintext
+::Question ID 001::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 2/10]
+[Weightage: 1 point]
+
+What is phishing?
+{
+~A method of securely storing data
+=An attempt to obtain sensitive information by disguising as a trustworthy entity
+~A type of encryption
+~A software development methodology
+}
+
+[Explanation: Phishing is a tactic used by cybercriminals to trick individuals into revealing sensitive information by pretending to be a legitimate source.]
+
+::Question ID 002::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+True or False: Strong passwords should use a combination of letters, numbers, and special characters.
+{
+=TRUE
+~FALSE
+}
+
+[Explanation: Strong passwords incorporate various character types and are generally longer to enhance security.]
+
+::Question ID 003::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+Which of the following is NOT a common social engineering technique?
+{
+~Pretexting
+~Phishing
+=Encryption
+~Baiting
+}
+
+[Explanation: Encryption is a method of protecting data, while pretexting, phishing, and baiting are all methods used in social engineering.]
+
+::Question ID 004::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+Fill in the blank: Confidential data must be stored ________.
+{
+=securely
+}
+
+[Explanation: Storing confidential data securely is essential to protect it from unauthorized access.]
+
+::Question ID 005::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 4/10]
+[Weightage: 1 point]
+
+Which OWASP Top 10 vulnerability involves an attacker injecting malicious code into a web application?
+{
+~Cross-Site Request Forgery (CSRF)
+=Injection
+~Sensitive Data Exposure
+~Security Misconfiguration
+}
+
+[Explanation: Injection vulnerabilities occur when untrusted data is sent to an interpreter as part of a command or query.]
+
+::Question ID 006::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+Spot the mistake: "I can safely use the same password for my work and personal accounts as long as I change it every six months."
+{
+=Using the same password for multiple accounts is a security risk.
+}
+
+[Explanation: Reusing passwords increases vulnerability; if one account is compromised, others can be as well.]
+
+::Question ID 007::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 6/10]
+[Weightage: 2 points]
+
+What should you do if you receive an email that appears to be from your bank asking you to verify your account information?
+{
+~Reply to the email with the requested information.
+=Do not respond, and report it as phishing.
+~Click on the link provided to verify your information.
+~Ignore it; your bank never sends emails.
+}
+
+[Explanation: It is crucial to report phishing attempts without responding or clicking links, as they are often fraudulent.]
+
+::Question ID 008::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 2/10]
+[Weightage: 1 point]
+
+True or False: Multi-factor authentication adds an extra layer of security by requiring additional verification methods.
+{
+=TRUE
+~FALSE
+}
+
+[Explanation: Multi-factor authentication enhances security by requiring something you know (password) and something you have (a device).]
+
+::Question ID 009::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 4/10]
+[Weightage: 1 point]
+
+Which of the following is a recommendation for secure coding practices?
+{
+=Validate inputs and sanitize outputs.
+~Use hardcoded credentials for ease of access.
+~Ignore compiler warnings.
+~Skip code reviews to save time.
+}
+
+[Explanation: Validating inputs and sanitizing outputs are crucial in preventing vulnerabilities in software.]
+
+::Question ID 010::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 4/10]
+[Weightage: 1 point]
+
+What is the main purpose of threat modeling in software development?
+{
+=To identify potential vulnerabilities before they can be exploited.
+~To improve coding speed.
+~To document coding standards.
+~To create marketing materials.
+}
+
+[Explanation: Threat modeling helps teams anticipate and mitigate potential security threats during development.]
+
+::Question ID 011::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+In the context of security, what does CSRF stand for?
+{
+~Cross-Site Reference Framework
+~Centralized Security Recovery Framework
+=Cross-Site Request Forgery
+~Common Security Risk Factor
+}
+
+[Explanation: CSRF is a type of attack that tricks a user into submitting a request without their consent.]
+
+::Question ID 012::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 2/10]
+[Weightage: 1 point]
+
+Fill in the blank: It is essential to report security incidents to the ________.
+{
+=CSO
+}
+
+[Explanation: Reporting incidents to the Chief Security Officer ensures that they are addressed promptly and effectively.]
+
+::Question ID 013::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 4/10]
+[Weightage: 1 point]
+
+What is one of the objectives of conducting regular code reviews?
+{
+=To identify potential security vulnerabilities early.
+~To increase development time.
+~To reduce team collaboration.
+~To ensure compliance with marketing guidelines.
+}
+
+[Explanation: Code reviews help catch vulnerabilities and improve code quality before deployment.]
+
+::Question ID 014::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+Which of the following best describes social engineering?
+{
+=Manipulating individuals into divulging confidential information.
+~Using advanced technology to hack systems.
+~Creating complex algorithms for data protection.
+~Encrypting sensitive data for storage.
+}
+
+[Explanation: Social engineering relies on human interaction to trick individuals into providing sensitive information.]
+
+::Question ID 015::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+Ordering: Arrange the following steps in the incident response plan in the correct order:
+1. Containment
+2. Identification
+3. Eradication
+4. Recovery
+5. Lessons Learned
+{
+=2, 1, 3, 4, 5
+}
+
+[Explanation: The incident response plan typically follows these steps to effectively address security incidents.]
+
+::Question ID 016::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+True or False: Hardcoding credentials in code is a recommended practice.
+{
+=FALSE
+~TRUE
+}
+
+[Explanation: Hardcoding credentials is a significant security risk and should be avoided in favor of secure vaults.]
+
+::Question ID 017::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 4/10]
+[Weightage: 1 point]
+
+What is the primary goal of the OWASP Top 10?
+{
+=To raise awareness of critical web application security risks.
+~To promote programming languages.
+~To provide coding certifications.
+~To develop new software frameworks.
+}
+
+[Explanation: The OWASP Top 10 lists the most critical security risks to help organizations improve their security posture.]
+
+::Question ID 018::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 4/10]
+[Weightage: 1 point]
+
+What is the purpose of encrypting data during transmission?
+{
+=To protect the data from unauthorized access.
+~To make the data easier to read.
+~To speed up the transmission process.
+~To reduce server load.
+}
+
+[Explanation: Encryption secures data in transit, preventing unauthorized access and ensuring confidentiality.]
+
+::Question ID 019::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What are the SANS Top 25?
+{
+=The most common and critical software errors to avoid.
+~A list of programming languages.
+~A compilation of security tools.
+~A framework for project management.
+}
+
+[Explanation: The SANS Top 25 focuses on identifying and preventing the most critical vulnerabilities in software development.]
+
+::Question ID 020::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 2/10]
+[Weightage: 1 point]
+
+Fill in the blank: Employees are encouraged to report ________ messages they suspect to be phishing.
+{
+=suspicious
+}
+
+[Explanation: Reporting suspicious messages helps protect the organization from potential attacks.]
+
+::Question ID 021::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+What is a key practice for password management?
+{
+~Use the same password for all accounts.
+=Create strong and unique passwords for each account.
+~Change passwords every five years.
+~Write passwords down and store them in your desk.
+}
+
+[Explanation: Strong, unique passwords for each account help mitigate the risk of unauthorized access.]
+
+::Question ID 022::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 4/10]
+[Weightage: 1 point]
+
+What should you do if you receive a voicemail asking for sensitive information?
+{
+=Verify the request through a known channel before providing any information.
+~Provide the information immediately.
+~Ignore the request; it may be a scam.
+~Ask the caller to send an email instead.
+}
+
+[Explanation: Always verify requests for sensitive information through trusted methods to avoid falling victim to social engineering.]
+
+::Question ID 023::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 2/10]
+[Weightage: 1 point]
+
+True or False: Regular security scans are optional for software development projects.
+{
+=FALSE
+~TRUE
+}
+
+[Explanation: Regular security scans are essential to identify vulnerabilities and ensure compliance with security standards.]
+
+::Question ID 024::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 4/10]
+[Weightage: 1 point]
+
+What is the first step in the incident response plan?
+{
+=Identification of the incident.
+~Containment of the incident.
+~Eradication of the incident.
+~Lessons learned from the incident.
+}
+
+[Explanation: Identifying the incident is the first critical step in the incident response process.]
+
+::Question ID 025::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+Scenario: You receive an email from a colleague requesting access to a sensitive document. What should you do?
+{
+~Provide access immediately.
+=Verify the request through a direct conversation with your colleague.
+~Assume it's a legitimate request and grant access.
+~Ignore the request.
+}
+
+[Explanation: Always verify sensitive requests to prevent unauthorized access, even if they appear to come from trusted sources.]
+
+::Question ID 026::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 4/10]
+[Weightage: 1 point]
+
+Which of the following best describes "sanitizing outputs" in secure coding?
+{
+=Removing or escaping potentially harmful data before it is displayed to users.
+~Compressing data to save bandwidth.
+~Encrypting data for storage.
+~Validating user input.
+}
+
+[Explanation: Sanitizing outputs is crucial to prevent attacks like XSS by ensuring that harmful data cannot be executed in a browser.]
+
+::Question ID 027::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 4/10]
+[Weightage: 1 point]
+
+What should be done with API keys in code?
+{
+=They should be stored securely and not hardcoded.
+~They can be hardcoded for ease of use.
+~They should be shared via email.
+~They should be made public for transparency.
+}
+
+[Explanation: API keys must be stored securely to prevent unauthorized access and potential exploitation.]
+
+::Question ID 028::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+Fill in the blank: Data protection involves securing sensitive information through ________ measures.
+{
+=security
+}
+
+[Explanation: Security measures are essential for protecting sensitive data from unauthorized access.]
+
+::Question ID 029::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 4/10]
+[Weightage: 1 point]
+
+What is the purpose of configuring compilers to treat warnings as errors?
+{
+=To ensure that potential security issues are addressed during development.
+~To speed up the compilation process.
+~To create more detailed error logs.
+~To reduce the number of warnings displayed.
+}
+
+[Explanation: Treating warnings as errors encourages developers to address potential vulnerabilities before they become issues.]
+
+::Question ID 030::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What is a common technique used in Cross-Site Scripting (XSS) attacks?
+{
+=Injecting malicious scripts into web pages viewed by other users.
+~Sending phishing emails.
+~Using strong passwords.
+~Encrypting user data.
+}
+
+[Explanation: XSS attacks involve injecting malicious scripts into web pages, which can be executed in the browser of users who visit the page.]
+
+::Question ID 031::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 2/10]
+[Weightage: 1 point]
+
+True or False: Employees should frequently change their passwords.
+{
+=TRUE
+~FALSE
+}
+
+[Explanation: Regularly changing passwords reduces the risk of unauthorized access.]
+
+::Question ID 032::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 4/10]
+[Weightage: 1 point]
+
+What is the main benefit of using secure vaults for storing credentials?
+{
+=To prevent unauthorized access to sensitive information.
+~To make it easier to share credentials.
+~To speed up the development process.
+~To avoid the need for encryption.
+}
+
+[Explanation: Secure vaults protect sensitive credentials from unauthorized access, enhancing overall security.]
+
+::Question ID 033::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+Scenario: You notice a colleague has left their computer unlocked while away from their desk. What should you do?
+{
+=Notify your colleague or secure the computer yourself if appropriate.
+~Ignore it; it's not your responsibility.
+~Use the computer for your own tasks.
+~Leave a note for your colleague.
+}
+
+[Explanation: Notifying the colleague or securing the computer helps protect sensitive information from unauthorized access.]
+
+::Question ID 034::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What is the purpose of documenting security decisions?
+{
+=To ensure auditability and accountability for security practices.
+~To create a lengthy report for management.
+~To increase project costs.
+~To simplify the coding process.
+}
+
+[Explanation: Documenting security decisions is essential for accountability and provides a reference for future audits and improvements.]
+
+::Question ID 035::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+Fill in the blank: An effective security policy should be ________.
+{
+=clear
+}
+
+[Explanation: A clear security policy helps employees understand their responsibilities and the importance of security measures.]
+
+::Question ID 036::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+What is the first action to take when a security incident is identified?
+{
+=Report it to the CSO immediately.
+~Attempt to fix the issue yourself.
+~Ignore it; it may resolve itself.
+~Document it for future reference.
+}
+
+[Explanation: Reporting a security incident promptly ensures that it can be addressed quickly and effectively.]
+
+::Question ID 037::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What is a common consequence of not following secure coding practices?
+{
+=Increased risk of vulnerabilities in the software.
+~Faster development times.
+~Lower project costs.
+~Improved user experience.
+}
+
+[Explanation: Neglecting secure coding practices can lead to vulnerabilities that may be exploited by attackers.]
+
+::Question ID 038::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 4/10]
+[Weightage: 1 point]
+
+Which is a key element of a secure software development lifecycle?
+{
+=Integrating security at every phase of development.
+~Focusing solely on functionality.
+~Minimizing code reviews to save time.
+~Avoiding security training for developers.
+}
+
+[Explanation: Incorporating security measures throughout the development process helps identify and mitigate vulnerabilities early.]
+
+::Question ID 039::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+True or False: It is acceptable to share your passwords with colleagues if you trust them.
+{
+=FALSE
+~TRUE
+}
+
+[Explanation: Sharing passwords, even with trusted colleagues, poses a security risk and should be avoided.]
+
+::Question ID 040::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 4/10]
+[Weightage: 1 point]
+
+What should be done at project closeout regarding access?
+{
+=Cleanup access and hand over open risks.
+~Leave access open for future use.
+~Ignore access permissions; they are not important.
+~Document risks but do not address them.
+}
+
+[Explanation: Properly closing out access permissions helps safeguard sensitive data and ensures compliance with security protocols.]
+
+::Question ID 041::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What type of attack does the OWASP Top 10 specifically address in its recommendations?
+{
+=Common vulnerabilities in web applications.
+~Physical security breaches.
+~Social engineering tactics.
+~Network infrastructure attacks.
+}
+
+[Explanation: The OWASP Top 10 focuses on vulnerabilities specific to web applications, providing guidance for developers to improve security.]
+
+::Question ID 042::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+Fill in the blank: Strong multi-factor authentication typically requires ________ forms of verification.
+{
+=two
+}
+
+[Explanation: Multi-factor authentication enhances security by requiring at least two forms of verification, such as a password and a code sent to a mobile device.]
+
+::Question ID 043::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 4/10]
+[Weightage: 1 point]
+
+What is a common method to verify the identity of someone requesting sensitive information?
+{
+=Use a known communication channel to confirm the request.
+~Send the information immediately to the provided contact.
+~Ignore the request; it may be a scam.
+~Assume the request is legitimate because of the sender's title.
+}
+
+[Explanation: Verification through a trusted channel prevents unauthorized access and protects sensitive information.]
+
+::Question ID 044::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What is the role of automated security scans in the development process?
+{
+=To identify vulnerabilities before the software is deployed.
+~To improve team collaboration.
+~To streamline coding practices.
+~To eliminate the need for manual testing.
+}
+
+[Explanation: Automated security scans help detect vulnerabilities throughout development, improving the overall security of the software.]
+
+::Question ID 045::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 2/10]
+[Weightage: 1 point]
+
+True or False: Data encryption is important for protecting sensitive information.
+{
+=TRUE
+~FALSE
+}
+
+[Explanation: Encryption is a crucial method for safeguarding sensitive data from unauthorized access.]
+
+::Question ID 046::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+What practice helps prevent data leaks during project development?
+{
+=Implementing secure coding practices.
+~Using hardcoded credentials in the code.
+~Avoiding input validation.
+~Skipping code reviews.
+}
+
+[Explanation: Secure coding practices help mitigate risks and protect data throughout the software development lifecycle.]
+
+::Question ID 047::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 4/10]
+[Weightage: 1 point]
+
+What is the main purpose of performing a security review at project kick-off?
+{
+=To evaluate the architecture and design for security vulnerabilities.
+~To finalize project timelines.
+~To allocate resources for development.
+~To create marketing strategies.
+}
+
+[Explanation: Conducting a security review at the project's start helps identify potential vulnerabilities early in the development process.]
+
+::Question ID 048::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What is the significance of the "lessons learned" phase in the incident response plan?
+{
+=To improve future response efforts and prevent similar incidents.
+~To create detailed reports for management.
+~To blame individuals for mistakes.
+~To increase project budgets.
+}
+
+[Explanation: The "lessons learned" phase helps organizations enhance their incident response capabilities by analyzing what worked and what didn't during an incident.]
+
+::Question ID 049::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+Fill in the blank: A secure development process should prioritize ________.
+{
+=security
+}
+
+[Explanation: Prioritizing security during development is essential to minimize vulnerabilities and protect sensitive data.]
+
+::Question ID 050::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+What is the best practice for managing sensitive data?
+{
+=Store it securely and encrypt it during transmission.
+~Send it via email without encryption.
+~Store it on unsecured servers for easy access.
+~Share it publicly for transparency.
+}
+
+[Explanation: Storing and transmitting sensitive data securely is critical to protect it from unauthorized access.]
+
+::Question ID 051::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What is a common characteristic of SQL Injection attacks?
+{
+=Manipulating SQL queries to gain unauthorized access to data.
+~Sending phishing emails to gain credentials.
+~Exploiting weak passwords.
+~Using malware to compromise systems.
+}
+
+[Explanation: SQL Injection attacks involve manipulating SQL queries to execute unauthorized commands against a database.]
+
+::Question ID 052::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+True or False: It is safe to connect to public Wi-Fi networks without using a VPN.
+{
+=FALSE
+~TRUE
+}
+
+[Explanation: Public Wi-Fi networks are often insecure, making it risky to access sensitive data without a VPN.]
+
+::Question ID 053::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+What is the main function of multi-factor authentication?
+{
+=To provide an additional layer of security beyond just a password.
+~To simplify the login process.
+~To eliminate the need for passwords altogether.
+~To reduce the number of user accounts.
+}
+
+[Explanation: Multi-factor authentication enhances security by requiring more than one form of verification before granting access.]
+
+::Question ID 054::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What is the relationship between secure coding practices and the OWASP Top 10?
+{
+=Secure coding practices help mitigate the vulnerabilities listed in the OWASP Top 10.
+~They are unrelated concepts.
+~OWASP Top 10 promotes insecure coding.
+~Secure coding practices are only for web development.
+}
+
+[Explanation: Secure coding practices are essential for addressing and mitigating the vulnerabilities identified in the OWASP Top 10.]
+
+::Question ID 055::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 2/10]
+[Weightage: 1 point]
+
+Fill in the blank: Employees should regularly review their security ________.
+{
+=practices
+}
+
+[Explanation: Regularly reviewing security practices helps employees stay informed and vigilant against potential threats.]
+
+::Question ID 056::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+What is the purpose of using strong, unique passwords?
+{
+=To prevent unauthorized access to accounts.
+~To make it easier to remember passwords.
+~To reduce the number of accounts a user has.
+~To comply with company policy only.
+}
+
+[Explanation: Strong, unique passwords help protect accounts from unauthorized access and potential breaches.]
+
+::Question ID 057::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What is the significance of error management in secure coding?
+{
+=To handle errors in a way that does not expose sensitive information.
+~To create more user-friendly error messages.
+~To reduce development time.
+~To eliminate the need for logging.
+}
+
+[Explanation: Proper error management prevents sensitive information from being revealed in error messages, which could aid attackers.]
+
+::Question ID 058::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+True or False: It is acceptable to use a simple password if you change it often.
+{
+=FALSE
+~TRUE
+}
+
+[Explanation: Even if changed frequently, simple passwords remain vulnerable to attacks and should be avoided.]
+
+::Question ID 059::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+What should you do if you suspect a security incident has occurred?
+{
+=Report it immediately following the incident response plan.
+~Try to fix the issue yourself.
+~Ignore it; it may resolve itself.
+~Document it for future reference only.
+}
+
+[Explanation: Immediate reporting of security incidents is critical for effective response and mitigation.]
+
+::Question ID 060::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What are the potential consequences of neglecting data protection measures?
+{
+=Data breaches and loss of sensitive information.
+~Increased customer satisfaction.
+~Higher project budgets.
+~Faster development times.
+}
+
+[Explanation: Failing to implement data protection measures can lead to significant data breaches and loss of sensitive information.]
+
+::Question ID 061::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+Fill in the blank: A security incident must be reported to the ________.
+{
+=CSO
+}
+
+[Explanation: Reporting to the CSO ensures that security incidents are handled appropriately and swiftly.]
+
+::Question ID 062::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+What is the most effective way to protect against phishing attacks?
+{
+=Educating employees about how to recognize and report phishing attempts.
+~Using automated spam filters only.
+~Ignoring suspicious emails.
+~Changing passwords frequently.
+}
+
+[Explanation: Employee education is crucial in identifying and preventing phishing attempts effectively.]
+
+::Question ID 063::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+Scenario: You receive a call from someone claiming to be from IT asking for your password. What should you do?
+{
+=Politely refuse and verify the request through official IT channels.
+~Provide your password immediately to resolve the issue.
+~Ignore the call and hang up.
+~Ask for their extension number before providing the password.
+}
+
+[Explanation: Always verify requests for sensitive information through trusted channels to prevent unauthorized access.]
+
+::Question ID 064::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 4/10]
+[Weightage: 1 point]
+
+What is the benefit of conducting regular security scans?
+{
+=To identify vulnerabilities and ensure compliance with security policies.
+~To increase the speed of development.
+~To create more user-friendly applications.
+~To reduce the amount of code written.
+}
+
+[Explanation: Regular security scans help detect vulnerabilities and ensure adherence to security standards and policies.]
+
+::Question ID 065::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+True or False: You should always log out of your accounts when finished, especially on shared devices.
+{
+=TRUE
+~FALSE
+}
+
+[Explanation: Logging out of accounts on shared devices helps protect your information from unauthorized access.]
+
+::Question ID 066::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+What is the role of input validation in secure coding practices?
+{
+=To ensure that data entered into the application is correct and safe.
+~To make applications run faster.
+~To reduce the amount of data stored.
+~To simplify coding.
+}
+
+[Explanation: Input validation is essential for preventing vulnerabilities by ensuring only safe data is processed by the application.]
+
+::Question ID 067::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What is one of the primary goals of the incident response plan?
+{
+=To minimize damage and recover from security incidents effectively.
+~To punish users for security breaches.
+~To create detailed reports for management.
+~To increase project budgets.
+}
+
+[Explanation: The incident response plan aims to minimize damage and ensure a swift recovery from security incidents.]
+
+::Question ID 068::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+Fill in the blank: Multi-factor authentication typically requires ________ forms of verification.
+{
+=two
+}
+
+[Explanation: Multi-factor authentication enhances security by requiring at least two forms of verification before granting access.]
+
+::Question ID 069::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+What is the importance of reporting security incidents promptly?
+{
+=To allow for quick response and mitigation of the issue.
+~To create reports for management.
+~To cover up mistakes.
+~To blame individuals for errors.
+}
+
+[Explanation: Prompt reporting of incidents allows for quick action to minimize damage and restore security.]
+
+::Question ID 070::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What is the purpose of threat modeling in software development?
+{
+=To anticipate potential security threats and design defenses accordingly.
+~To improve coding speed.
+~To create marketing strategies.
+~To document coding practices.
+}
+
+[Explanation: Threat modeling helps developers identify security threats and design measures to address them proactively.]
+
+::Question ID 071::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+True or False: It is safe to use the same password across multiple accounts.
+{
+=FALSE
+~TRUE
+}
+
+[Explanation: Using the same password for multiple accounts increases security risks; unique passwords are recommended.]
+
+::Question ID 072::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+What should you do if you encounter suspicious behavior on your computer?
+{
+=Report it to the appropriate security personnel immediately.
+~Ignore it; it may resolve itself.
+~Try to fix it yourself without reporting.
+~Discuss it with your colleagues only.
+}
+
+[Explanation: Reporting suspicious behavior helps ensure that potential security threats are addressed promptly.]
+
+::Question ID 073::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What is the significance of conducting security reviews at project milestones?
+{
+=To validate that security requirements have been met throughout the development process.
+~To finalize project timelines.
+~To allocate more resources for development.
+~To create marketing strategies.
+}
+
+[Explanation: Security reviews at milestones ensure that security measures are being implemented correctly and effectively throughout the project.]
+
+::Question ID 074::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+Fill in the blank: Always verify requests for sensitive information through a ________ channel.
+{
+=trusted
+}
+
+[Explanation: Using a trusted channel for verification helps prevent unauthorized access and protects sensitive information.]
+
+::Question ID 075::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+What is the main advantage of using strong encryption for data protection?
+{
+=To protect data from unauthorized access during transmission and storage.
+~To make data easier to read.
+~To reduce data size.
+~To improve system performance.
+}
+
+[Explanation: Strong encryption protects data integrity and confidentiality, ensuring it is not accessible to unauthorized individuals.]
+
+::Question ID 076::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What are the potential consequences of a data breach?
+{
+=Loss of sensitive information, financial loss, and damage to reputation.
+~Increased customer satisfaction.
+~Faster development times.
+~Lower project budgets.
+}
+
+[Explanation: Data breaches can lead to severe consequences, including the loss of sensitive information and damage to an organization's reputation.]
+
+::Question ID 077::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+True or False: Employees should be trained to recognize and respond to phishing attempts.
+{
+=TRUE
+~FALSE
+}
+
+[Explanation: Training employees to identify and react to phishing attempts is essential to enhancing organizational security.]
+
+::Question ID 078::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+What is the role of error handling in secure coding?
+{
+=To ensure that error messages do not expose sensitive information.
+~To improve user interface design.
+~To increase application performance.
+~To eliminate the need for logging.
+}
+
+[Explanation: Proper error handling prevents sensitive information from being revealed in error messages, which could be exploited by attackers.]
+
+::Question ID 079::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What should be the focus of a security awareness program in an organization?
+{
+=To educate employees about security risks and best practices.
+~To create complex security protocols.
+~To increase costs of security measures.
+~To minimize training time.
+}
+
+[Explanation: A security awareness program aims to inform employees about potential risks and how to mitigate them effectively.]
+
+::Question ID 080::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+Fill in the blank: It is important to ________ your passwords regularly.
+{
+=change
+}
+
+[Explanation: Regularly changing passwords helps maintain security and reduces the risk of unauthorized access.]
+
+::Question ID 081::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+What is the best practice for handling sensitive data?
+{
+=Encrypting it both at rest and in transit.
+~Storing it on unsecured servers.
+~Sharing it publicly for transparency.
+~Using hardcoded credentials in the code.
+}
+
+[Explanation: Encrypting sensitive data protects it from unauthorized access, both when stored and during transmission.]
+
+::Question ID 082::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What is the importance of regular security training for employees?
+{
+=To keep them informed of current threats and best practices.
+~To increase workload.
+~To provide additional certifications.
+~To reduce collaboration.
+}
+
+[Explanation: Regular security training ensures that employees remain aware of evolving threats and understand how to protect against them.]
+
+::Question ID 083::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+True or False: Hardcoding sensitive information in code is a secure practice.
+{
+=FALSE
+~TRUE
+}
+
+[Explanation: Hardcoding sensitive information is a poor security practice and should be avoided in favor of secure storage solutions.]
+
+::Question ID 084::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+What should you do if you receive an email with a suspicious attachment?
+{
+=Do not open the attachment and report the email.
+~Open it to see if it is legitimate.
+~Forward it to your colleagues.
+~Delete it without reporting.
+}
+
+[Explanation: Avoiding suspicious attachments helps prevent malware infections and potential data breaches.]
+
+::Question ID 085::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What is the relationship between social engineering and phishing?
+{
+=Phishing is a form of social engineering that uses deceptive emails to trick users.
+~Social engineering is unrelated to phishing.
+~Phishing is only a type of malware.
+~Social engineering is only about physical security.
+}
+
+[Explanation: Phishing is a specific type of social engineering that exploits trust through deceptive emails to gain sensitive information.]
+
+::Question ID 086::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+Fill in the blank: Always use ________ passwords for your accounts.
+{
+=strong
+}
+
+[Explanation: Strong passwords are essential for protecting accounts from unauthorized access.]
+
+::Question ID 087::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+What is the significance of security audits in software development?
+{
+=To assess compliance with security policies and identify vulnerabilities.
+~To create marketing strategies.
+~To reduce development time.
+~To increase project budgets.
+}
+
+[Explanation: Security audits evaluate adherence to security policies and help identify any vulnerabilities that need addressing.]
+
+::Question ID 088::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What is the purpose of encryption in data protection?
+{
+=To convert data into a secure format that cannot be easily accessed without authorization.
+~To compress data for storage.
+~To enhance data readability.
+~To reduce the amount of data stored.
+}
+
+[Explanation: Encryption transforms data into an unreadable format, ensuring that only authorized users can access it.]
+
+::Question ID 089::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+True or False: Employees should be aware of the company’s security policies.
+{
+=TRUE
+~FALSE
+}
+
+[Explanation: Awareness of security policies is crucial for employees to understand their responsibilities and protect sensitive information.]
+
+::Question ID 090::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+What is the purpose of using error messages in applications?
+{
+=To help users understand issues without exposing sensitive information.
+~To provide detailed technical information.
+~To increase application performance.
+~To eliminate the need for logging.
+}
+
+[Explanation: Error messages should inform users of issues while avoiding the disclosure of sensitive information that could be exploited.]
+
+::Question ID 091::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What is the primary goal of secure coding practices?
+{
+=To develop software that is resistant to vulnerabilities and attacks.
+~To speed up the development process.
+~To reduce the amount of code written.
+~To create more user-friendly applications.
+}
+
+[Explanation: Secure coding practices aim to create robust software that minimizes vulnerabilities and enhances security.]
+
+::Question ID 092::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+Fill in the blank: The best way to avoid phishing attacks is through ________.
+{
+=education
+}
+
+[Explanation: Educating employees about phishing tactics is crucial in preventing such attacks successfully.]
+
+::Question ID 093::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+What should be done if a colleague shares sensitive information in a public setting?
+{
+=Remind them of the importance of confidentiality and report the incident.
+~Ignore it; it's not your business.
+~Join the conversation to gain more context.
+~Share your own sensitive information to balance it out.
+}
+
+[Explanation: Reminding colleagues about confidentiality is essential to protect sensitive information and ensure a secure work environment.]
+
+::Question ID 094::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What is an example of a secure coding practice?
+{
+=Validating inputs before processing them.
+~Hardcoding sensitive information in the code.
+~Skipping error handling to save time.
+~Using generic error messages.
+}
+
+[Explanation: Validating inputs is a critical secure coding practice that helps prevent various vulnerabilities, including injection attacks.]
+
+::Question ID 095::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+True or False: Strong passwords are essential for protecting sensitive data.
+{
+=TRUE
+~FALSE
+}
+
+[Explanation: Strong passwords play a vital role in securing sensitive data and preventing unauthorized access.]
+
+::Question ID 096::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+What is the significance of using secure channels for data transmission?
+{
+=To prevent unauthorized access and ensure data integrity.
+~To speed up data transfer.
+~To reduce server load.
+~To simplify coding.
+}
+
+[Explanation: Secure channels protect data during transmission, ensuring that it cannot be intercepted or tampered with.]
+
+::Question ID 097::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What is the role of compliance in software development?
+{
+=To ensure adherence to security policies and industry regulations.
+~To focus solely on functionality.
+~To minimize testing.
+~To increase project budgets.
+}
+
+[Explanation: Compliance ensures that software development aligns with required security standards and regulations, which is essential for protecting sensitive data.]
+
+::Question ID 098::
+[Category: Security Awareness]
+[Difficulty: Easy]
+[Complexity Score: 1/10]
+[Weightage: 1 point]
+
+Fill in the blank: Security awareness training is essential for ________ employees.
+{
+=all
+}
+
+[Explanation: All employees benefit from security awareness training to understand their role in maintaining security.]
+
+::Question ID 099::
+[Category: Security Awareness]
+[Difficulty: Medium]
+[Complexity Score: 3/10]
+[Weightage: 1 point]
+
+What should you do if you suspect your account has been compromised?
+{
+=Change your password and report the incident.
+~Ignore it; it may resolve itself.
+~Continue using the account as usual.
+~Share your concerns with your colleagues only.
+}
+
+[Explanation: Changing your password and reporting the incident helps protect your account and prevents further unauthorized access.]
+
+::Question ID 100::
+[Category: Security Awareness]
+[Difficulty: Hard]
+[Complexity Score: 5/10]
+[Weightage: 2 points]
+
+What is the importance of maintaining a culture of security within an organization?
+{
+=To promote awareness and proactive measures against potential threats.
+~To reduce the number of employees.
+~To increase project budgets.
+~To minimize training programs.
+}
+
+[Explanation: A strong security culture encourages employees to be vigilant and proactive in identifying and addressing security risks.]
+```
+
+This set of quiz questions covers the essential concepts outlined in the security policy, ensuring variety in question types and difficulty levels, while also emphasizing the importance of security awareness among employees. Feel free to adjust any aspect as necessary!

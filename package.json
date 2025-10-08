@@ -4,6 +4,8 @@
   "description": "Automates security awareness quiz generation from prompts and policy documents using OpenAI and TypeScript.",
   "main": "index.js",
   "scripts": {
+    "start": "node src/main.js",
+    "generate": "npx tsx src/main.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
